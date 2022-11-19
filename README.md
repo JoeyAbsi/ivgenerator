@@ -1,2 +1,2 @@
 # IV Generator
-IV generator for cipher algorithms
+IV generator for RC4 algorithm
